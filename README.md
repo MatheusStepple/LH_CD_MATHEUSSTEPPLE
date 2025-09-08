@@ -18,12 +18,11 @@ LH_CD_MATHEUS_STEPPLE/
 ├── 3_MODELO_PREDITIVO/
 │   ├── modelo_preditivo.ipynb
 │   └── modelo.py
-├── 4_RELATORIO_EXECUTIVO/
-│   ├── relatorio_desafio_indicium.pdf
-│   └── resumo_executivo.md
+├── 4_RELATORIO/
+│   └── relatorio_desafio_indicium.pdf
 └── 5_CODIGO_FONTE/
-    ├── analise_completa.py
-    └── gerar_relatorio.py
+    └── analise_completa.py
+    
 ```
 
 ## Como rodar
@@ -48,16 +47,6 @@ jupyter notebook 3_MODELO_PREDITIVO/modelo_preditivo.ipynb
 python 3_MODELO_PREDITIVO/modelo.py
 ```
 
-5. Rodar tudo:
-```bash
-python 5_CODIGO_FONTE/analise_completa.py
-```
-
-6. Gerar relatório:
-```bash
-python 5_CODIGO_FONTE/gerar_relatorio.py
-```
-
 ## O que descobri
 
 - 999 filmes analisados
@@ -77,6 +66,8 @@ python 5_CODIGO_FONTE/gerar_relatorio.py
 ## Contato
 
 Matheus Stepple
-- Email: matheus.stepple@exemplo.com
+- Email: matheusstepplegomes@gmail.com OU msg2@cin.ufpe.br
+- LinkedIn: https://www.linkedin.com/in/matheus-stepple/
+
 
 Feito para o processo da Indicium
